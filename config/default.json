@@ -1,0 +1,4 @@
+{
+	"port": 5000,
+	"mongoUri": "mongodb+srv://admin:testadmin@cluster0.nnvhk.mongodb.net/app"
+}

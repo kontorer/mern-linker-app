@@ -1,0 +1,27 @@
+{
+  "name": "mern-linker-app",
+  "version": "1.0.0",
+  "description": "mern stack studies",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "serve": "nodemon app"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "react",
+    "node"
+  ],
+  "author": "Alina Kontorer <kontorerer@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.6"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.4"
+  }
+}
