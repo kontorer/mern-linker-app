@@ -1,4 +1,5 @@
 {
 	"port": 5000,
+	"jwtSecret": "mern project",
 	"mongoUri": "mongodb+srv://admin:testadmin@cluster0.nnvhk.mongodb.net/app"
 }
